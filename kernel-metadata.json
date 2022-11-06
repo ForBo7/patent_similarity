@@ -1,0 +1,16 @@
+{
+  "id": "forbo7/forbo7/push-patent-similarity-iteration",
+  "title": "[PUSH] Patent Similarity Iteration",
+  "code_file": "patent_similarity_iteration.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/us-patent-phrase-to-phrase-matching"
+  ]
+}
